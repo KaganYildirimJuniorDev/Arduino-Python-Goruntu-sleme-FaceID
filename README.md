@@ -1,1 +1,1 @@
-# Arduino-Python-Goruntu-sleme-FaceID
+# Arduino-Python-Goruntu-Isleme-FaceID
